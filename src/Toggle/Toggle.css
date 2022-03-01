@@ -1,0 +1,14 @@
+.blue-circle {
+    width: 40px;
+    height: 40px;
+    background: cornflowerblue;
+    border-radius: 50%;
+}
+
+.Toggle .wrapper {
+    text-align: center;
+}
+
+.Toggle .blue-circle {
+    margin: 15px auto;
+}

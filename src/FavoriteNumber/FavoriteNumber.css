@@ -1,0 +1,22 @@
+.FavoriteNumber button {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 5px;
+
+}
+
+.FavoriteNumber .buttons {
+    text-align: center;
+}
+
+.chosenNumber {
+    width: 40px;
+    height: 40px;
+    border: 2px solid cornflowerblue;
+    border-radius: 4px;
+    margin: 15px auto;
+    text-align: center;
+    line-height: 40px;
+    font-size: 23px;
+    color: cornflowerblue;
+}

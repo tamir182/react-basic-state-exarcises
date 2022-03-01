@@ -1,0 +1,22 @@
+.Mirror .wrapper {
+    text-align: center;
+}
+
+.Mirror .wrapper input {
+    width: 200px;
+    font-size: 16px;
+}
+
+.Mirror .wrapper .blue-box {
+    width: 200px;
+    height: 30px;
+    border: 2px solid cornflowerblue;
+    border-radius: 4px;
+    margin: 15px auto;
+    text-align: center;
+    line-height: 26px;
+    padding: 0 5px;
+    font-size: 18px;
+    color: cornflowerblue;
+    overflow: hidden;
+}

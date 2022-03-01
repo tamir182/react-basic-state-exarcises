@@ -1,0 +1,21 @@
+.Record .recorder {
+    margin: 15px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.Record .wrapper {
+    text-align: center;
+}
+
+.Record .blue-box {
+    width: 250px;
+    height: 50px;
+    border: 2px solid cornflowerblue;
+    border-radius: 4px;
+    margin: 15px auto;
+    font-size: 14px;
+    color: #333333;
+    padding: 5px;
+    overflow: hidden;
+}

@@ -1,0 +1,15 @@
+.FullName .wrapper {
+    text-align: center;
+}
+
+.FullName .valid {
+    color: green;
+}
+
+.FullName .invalid {
+    color: red;
+}
+
+.FullName input {
+    font-size: 16px;
+}
